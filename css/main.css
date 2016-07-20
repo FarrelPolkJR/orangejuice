@@ -1,0 +1,81 @@
+html, body {
+	height: 100%;
+}
+
+nav {
+	background-color: #FE7E00;
+	padding: 40px;
+	border-style: solid;
+	border-color: #F1720D;
+	border-width: 0;
+}	
+
+nav a {
+	color: #FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+nav ul {
+	float: right;
+}
+
+nav li {
+	display: inline-block;
+	padding: 0 15px;
+}
+
+section div.img {
+	float: left;
+	width: 5%;
+	padding: 150px 10px 0 200px;
+}
+
+section div.h1 {
+	text-align: center;
+	padding: 100px 0 0 0;
+	font-size: 30px;
+}
+
+section input {
+	float: right;
+	font-size: 20px;
+	margin-right: 35px;
+}
+
+section div.button {
+	font-size: 25px;
+	margin: 10px;
+	padding-left: 500px;
+}
+
+section div.buttons {
+	font-size: 25px;
+	margin: 10px;
+	padding-left: 500px;
+}
+
+section div button.btn1 {
+	background-color: #FE7E00;
+	font-size: 35px;
+	margin: 40px;
+}
+
+section div button.btn2 {
+	background-color: #7ACCC8;
+	font-size: 35px;
+}
+
+section div span {
+	color: #86BFB9;
+}
+
+section i {
+	float: right;
+}
+
+footer {
+	border-style: solid;
+	border-color: #7ACCC8;
+	border-width: 50px;
+	margin-top: 50px;
+}
